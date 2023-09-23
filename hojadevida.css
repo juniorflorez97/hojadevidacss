@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+
+}
+.header{
+    color: white;
+   background-color: darkblue;
+   float: left;
+   height: 1100px;
+   width: 25%;
+   text-align: center;
+}
+.img1{
+    width: 100%;
+    margin-top: 20px;
+}
+.img2{
+    background-color: white;
+    float: left;
+    width: 25px;
+    margin-right: 100px;
+}
+.img3{
+    background-color: white;
+    float: left;
+    width: 25px;
+    margin-right: 100px;
+
+}
+.img4{
+    background-color: white;
+    float: left;
+    width: 25px;
+    margin-right: 50px;
+}
+.img5{
+    background-color: white;
+    float: left;
+    width: 40px;
+    margin-right: 100px;
+}
+.img6{
+   margin-top: 20px;
+    background-color: white;
+    float: left;
+    width: 100px;
+    height: 60px;
+   margin-left: 10PX;
+}
+.hobbies{
+    display: block;
+
+}
+
+
+
+
+.content{
+    background-color: antiquewhite;
+   float: left;
+   height: 1100px;
+   width: 75%;
+
+
+}
+.titulo1{
+    color: darkblue;
+    padding: 15px;
+   margin-top: 60px;
+   text-align: center;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+.parrafo1{
+    text-align: justify;
+    padding: 10px;
+    margin-right: 60px;
+margin-left: 60px;
+}
+a{
+    color: white;
+}
+p{
+    margin-bottom: 20px;
+}
+h2{
+    background-color: darkblue;
+    color: white;
+   padding: 4px;
+   width: 300px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
